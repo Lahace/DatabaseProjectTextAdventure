@@ -1,4 +1,4 @@
-# Database course project, Textual Adventure
+# Database Course Project, Textual Adventure
 
 This project was an assignment for the Database course, which is part of the the Information technology engineering degree in University of Padua.
 
